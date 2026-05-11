@@ -1,0 +1,10 @@
+*.java linguist-language=Java
+
+# Keep Java source detectable for language stats
+src/main/java/** linguist-detectable=true
+src/test/java/** linguist-detectable=true
+
+# Exclude wrapper/vendor files from language breakdown
+.mvn/** linguist-vendored
+mvnw linguist-vendored
+mvnw.cmd linguist-vendored
