@@ -1,6 +1,6 @@
 # Módulo de Autenticação JWT com Spring Security
 
-Idioma: [English](readme.MD) | **Português (Brasil)**
+Idioma: [English](README.md) | **Português (Brasil)**
 
 API REST de autenticação de usuários construída com **Spring Boot 3**, **Spring Security** e **JWT**, usando **PostgreSQL** e migrações com **Flyway**.
 
